@@ -7,5 +7,6 @@ namespace PIS_Vjezba1
 {
     class Nova
     {
+        //Sadi Ivo bora zelenoga saaadi Ivo bora zelenoga....
     }
 }
